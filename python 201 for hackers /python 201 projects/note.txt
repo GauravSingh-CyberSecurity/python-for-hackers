@@ -1,3 +1,5 @@
 do this section in windows env
 
 and I create 2 virtual env(myenv , venv ) folders for windows and linux because my base OS is linux
+
+and bring the content of more projects.zip in this folde python 201 projects
