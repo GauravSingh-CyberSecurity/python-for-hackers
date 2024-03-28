@@ -1,0 +1,3 @@
+do this section in windows env
+
+and I create 2 virtual env(myenv , venv ) folders for windows and linux because my base OS is linux
