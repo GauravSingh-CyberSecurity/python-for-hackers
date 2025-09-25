@@ -1,8 +1,4 @@
 
-gs.cyber.red@gmail.com
-```
-XSf63MfR^zW4Ebk~,Z'jp2PC"o)t%3:8
-```
 
 
 
